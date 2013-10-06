@@ -1,6 +1,6 @@
-## JavaOne 2013 Update
+### JavaOne 2013 Update ###
 
-# Updates of Nashorn and Lambda features demonstrated at JavaOne SF 2013 and demo'd at MelbJVM October 2013
+Updates of Nashorn and Lambda features demonstrated at JavaOne SF 2013 and demo'd at MelbJVM October 2013
 
 Get JDK 8 from http://jdk8.java.net
 
@@ -10,7 +10,7 @@ _DefaultMethodsMain_: Demoing default methods in Java 8.  Resulting in the need 
 _Streams_: Although I didnt have time to talk through these, these are a sample of methods on the [Streams API documentation|http://download.java.net/jdk8/docs/api/java/util/stream/Collectors.html] to give you a feel for what the API could do.
 _MultipleInheritanceByTypeNotByState_: Shows what happens when two interfaces implement the same default method.
 
-#Nashorn Demos
+# Nashorn Demos
 _simpledemo.js_: A demo of jjs and javascript demos in bash
 _fireworks.js_: Demo from jim laskey's blog.  A JavaFX written entirely in Javascript. Good to see how to interop with existing Java classes.  jjs -fx fireworks.js
 _suspect.js_: Another demo from Jim Laskey's blog. A bash script written in js. Run with jjs -scripting suspect.js
