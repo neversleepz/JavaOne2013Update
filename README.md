@@ -9,7 +9,7 @@ _SimpleRefactoringMain_: A demo to show how annon inner classes can be refactore
 
 _DefaultMethodsMain_: Demoing default methods in Java 8.  Resulting in the need to not implement annoying methods in interfaces you didn't usually take seriously (eg Iterator.remove)
 
-_Streams_: Although I didnt have time to talk through these, these are a sample of methods on the [Streams API documentation|http://download.java.net/jdk8/docs/api/java/util/stream/Collectors.html] to give you a feel for what the API could do.
+_Streams_: Although I didnt have time to talk through these, these are a sample of methods on the Streams API documentation (http://download.java.net/jdk8/docs/api/java/util/stream/Collectors.html) to give you a feel for what the API could do.
 
 _MultipleInheritanceByTypeNotByState_: Shows what happens when two interfaces implement the same default method.
 
